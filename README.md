@@ -8,7 +8,7 @@ My passion for programming stems from my freshman year high school, where I "cod
 
 ### 🔭 My Projects: 
 - **Asteroid PvP**: My Minecraft Bedrock server based around Script API, which has been refined and constantly updated for 4 years, growing to about 2500 total users and 10-30 conurrent players at a time.
-- I also work on many other smaller projects 
+- I also work on many other smaller projects of my own involving NodeJS. I sometimes work on commissions when I find the time.
 
 ### 💡 Fun Facts About Me
 - I love cats so much despite never owning one for myself. They take up my entire camera roll and feed on several social media platforms I use. They're just so cute and adorable!
