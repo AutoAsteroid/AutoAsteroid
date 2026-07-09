@@ -26,7 +26,7 @@ I am a Computer Science undergraduate student interested in backend engineering,
 - 📊 Built a telemetry and analytics pipeline tracking player engagement and infrastructure health
 - 🔍 Implemented graph-based and Disjoint Set Union (Union-Find) alternate account detection
 - 🚀 Automated VPS deployment scripts and infrastructure through shell scripting
-- 🎮 Independently developed and maintain3e the separate gameplay systems powering the server
+- 🎮 Independently developed and maintained the separate gameplay systems powering the server
 
 **https://github.com/AutoAsteroid/asteroid-reverse-proxy** *(may be privated)*
 
@@ -34,7 +34,7 @@ I am a Computer Science undergraduate student interested in backend engineering,
 
 # 💻 Technologies
 
-| Languages | Technologies & Infrastructure | 
+| Languages | Technologies & Infrastructure |
 | :--- | :--- |
 | JavaScript (Node.js) | WebSockets & Asynchronous RPCs |
 | Golang | Distributed Systems Engineering |
