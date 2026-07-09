@@ -1,18 +1,55 @@
-## 👋 Hello, I'm Jordan! 
+# 👋 Hello, I'm Jordan!
 
-My passion for programming begun in freshman year of high school where I "coded" with Minecraft command blocks on my Nintendo Switch. Overtime, I began to pursue bigger projects. I learned how to code in real languages and even began making a profit from commissions. Now I am a full time college student majoring in computer science. I strive to continuously learn and collaborate with like-minded individuals.
+I am a Computer Science undergraduate student interested in backend engineering, distributed systems, networking, and systems architecture. My passion for programming began in my freshman year of high school, where I first "coded" and exercised my programmatic creativity using Minecraft command blocks on my Nintendo Switch. Many of the projects I have built start from a practical limitation and evolve as I continuously redesign them.
 
-### 🌱 Current Interests
-- **Programming Languages:** 4 years with JS and JSON, learning HTML, CSS, C++, C & Python.
-- **Collaborative Work:** Looking to make friends and collaborate with others, whether it be coding or not.
+---
 
-### 🔭 My Projects: 
-- **Asteroid PvP**: My Minecraft Bedrock server based around Script API, which has been refined and constantly updated for 4 years, growing to about 2500 total users and 10-20 conurrent players at a time.
-- I also work on many other smaller projects of my own involving NodeJS. I sometimes work on commissions for others when I find the time. They often ask for customized behavior packs for their own Minecraft servers.
+# 🚀 Featured Project: Asteroid PvP
 
-### 💡 Fun Facts About Me
-- I love cats so much despite never owning one for myself. They take up my entire camera roll and feed on several social media platforms I use. They're just so cute and adorable!
-- When I'm not coding or studying, I enjoy playing video games or volleyball.
+> **Founder, sole developer, and maintainer of a production Minecraft platform that has grown over 5 years, serving more than 10,000 unique lifetime player connections and generating more than $20,000 USD in lifetime revenue.**
 
-### 🤝 Let's Connect!
-You can reach me on Discord: **@autoasteroid.** I mainly use discord to connect to players on my server while staying anonymous and keeping information confidential.
+<p align="center">
+    <img src="diagram.svg" width="100%" alt="Asteroid Architecture">
+</p>
+
+| Platform Highlights | Operational Scale |
+| :--- | :--- |
+| 👥 **10,000+** Unique lifetime players | 🛠️ **5+ Years** Continuous development & operation |
+| 💬 **2,500+** Discord community members | 💰 **$20,000+ USD** Lifetime revenue generated |
+
+### Highlights
+
+- 🏗️ Designed a distributed architecture using Go, Node.js, SQLite, and persistent WebSockets
+- 🌐 Built a custom Go reverse proxy and WebSocket routing hub
+- ⚡ Developed an asynchronous RPC framework for service-to-service communication
+- 🗄️ Created a custom SQLite persistence layer exposing a JavaScript Map inspired API
+- 📊 Built a telemetry and analytics pipeline tracking player engagement and infrastructure health
+- 🔍 Implemented graph-based and Disjoint Set Union (Union-Find) alternate account detection
+- 🚀 Automated VPS deployment scripts and infrastructure through shell scripting
+- 🎮 Independently developed and maintain3e the separate gameplay systems powering the server
+
+**https://github.com/AutoAsteroid/asteroid-reverse-proxy** *(may be privated)*
+
+---
+
+# 💻 Technologies
+
+| Languages | Technologies & Infrastructure | 
+| :--- | :--- |
+| JavaScript (Node.js) | WebSockets & Asynchronous RPCs |
+| Golang | Distributed Systems Engineering |
+| SQL (SQLite) | Backend Architecture |
+| C/C++ | System Networking & Administration |
+| Bash Programming | Automation & DevOps | 
+
+---
+
+## 💡 Beyond the Programming
+
+* 🐱 I absolutely love cats despite never owning one myself. They easily take up 90% of my camera roll and dominate my social media feeds. I'm definitely planning to adopt one of my own down the road.
+* 🏐 When I'm away from the keyboard, I'm usually playing volleyball or diving into a strategic game of chess. I love the balance between the fast-paced team coordination on the court and the slow, deliberate strategy over a board.
+* 🎮 Naturally, gaming is a big part of my life. It inspired me to pursue computer science. I really enjoy diving into game mechanics, progression systems, and strategy. They helped me create the player-facing features on Asteroid. 
+
+---
+
+### 🤝 Let's Connect on Discord: `@autoasteroid`
