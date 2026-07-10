@@ -29,6 +29,7 @@ I am a Computer Science undergraduate student interested in backend engineering,
 - 🎮 Independently developed and maintained the separate gameplay systems powering the server
 
 **https://github.com/AutoAsteroid/asteroid-reverse-proxy** *(may be privated)*
+**https://github.com/AutoAsteroid/asteroid-pvp** *(may be privated)*
 
 ---
 
