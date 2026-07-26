@@ -2,6 +2,8 @@
 
 I am a Computer Science undergraduate student interested in backend engineering, distributed systems, networking, and systems architecture. My passion for programming began in my freshman year of high school, where I first "coded" and exercised my programmatic creativity using Minecraft command blocks on my Nintendo Switch. Many of the projects I have built start from a practical limitation and evolve as I continuously redesign them.
 
+![](https://komarev.com/ghpvc/?username=AutoAsteroid)
+
 ---
 
 # 🚀 Featured Project: Asteroid PvP
