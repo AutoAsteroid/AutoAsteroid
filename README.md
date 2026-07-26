@@ -38,9 +38,9 @@ I am a Computer Science undergraduate student interested in backend engineering,
 - 🚀 Automated VPS deployment scripts and infrastructure through shell scripting
 - 🎮 Independently developed and maintained the separate gameplay systems powering the server
 
-**https://github.com/AutoAsteroid/asteroid-reverse-proxy** *(may be privated)*
+**https://github.com/AutoAsteroid/asteroid-reverse-proxy** *([readme if source is privated](https://github.com/AutoAsteroid/asteroid-reverse-proxy-readme))*
 <br>
-**https://github.com/AutoAsteroid/asteroid-pvp** *(may be privated)*
+**https://github.com/AutoAsteroid/asteroid-pvp** *(privated, source code available upon request)*
 
 ---
 
