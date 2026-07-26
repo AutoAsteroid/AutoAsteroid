@@ -4,6 +4,13 @@ I am a Computer Science undergraduate student interested in backend engineering,
 
 ![](https://komarev.com/ghpvc/?username=AutoAsteroid)
 
+<p align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+</p>
+
 ---
 
 # 🚀 Featured Project: Asteroid PvP
