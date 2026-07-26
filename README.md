@@ -2,13 +2,14 @@
 
 I am a Computer Science undergraduate student interested in backend engineering, distributed systems, networking, and systems architecture. My passion for programming began in my freshman year of high school, where I first "coded" and exercised my programmatic creativity using Minecraft command blocks on my Nintendo Switch. Many of the projects I have built start from a practical limitation and evolve as I continuously redesign them.
 
-![](https://komarev.com/ghpvc/?username=AutoAsteroid)
-
 <p align="center">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+    <img src="https://komarev.com/ghpvc/?username=AutoAsteroid" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" />
 </p>
 
 ---
